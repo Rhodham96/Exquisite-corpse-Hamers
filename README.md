@@ -1,6 +1,14 @@
 # Exquisite-corpse-Hamers
-In the heart of the Whispering Woods, where acorns and berries were the usual feast, there lived a peculiar little squirrel named Pete. But Pete wasn’t like the other squirrels—while they loved munching on nuts and seeds, Pete had a strange and wonderful obsession… pineapples!
+No squirels stories here sorry elsarrive
 
-No one knew how it started. Some say he once saw a lost picnic basket filled with tropical fruits. Others claim he had a dream of golden, spiky treasures. But one thing was certain: Pete would do anything for a bite of sweet, juicy pineapple.
+1. fork this repo :
 
-The only problem? Pineapples didn’t grow in the forest.
+2. clone your forked repo
+
+3. make changes
+
+4. add branch
+
+5. commit, push
+
+6. than pull request
