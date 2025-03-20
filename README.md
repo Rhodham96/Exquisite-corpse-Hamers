@@ -1,11 +1,11 @@
 # Exquisite-corpse-Hamers
+
 1. Clone this repository:
 
 ```bash
 git clone https://github.com/Rhodham96/Exquisite-corpse-Hamers.git
 cd Exquisite-corpse-Hamers 
 ```
-
 
 
 2. Add stuff...
@@ -25,3 +25,4 @@ git add .
 git commit -m "Something useful"
 git push origin <Name of your branch>
 ```
+
